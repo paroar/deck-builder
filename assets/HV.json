@@ -1,0 +1,257 @@
+{
+  "pageProps": {
+    "cards": 11,
+    "icon": "icons/characters/fh/HV.png",
+    "searchResults": [
+      {
+        "name": "Hive",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-hv-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "aimed assault",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-aimed-assault.jpeg",
+        "initiative": 88,
+        "level": 1
+      },
+      {
+        "name": "coiled limbs",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-coiled-limbs.jpeg",
+        "initiative": 82,
+        "level": 1
+      },
+      {
+        "name": "faceless entity",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-faceless-entity.jpeg",
+        "initiative": 12,
+        "level": 1
+      },
+      {
+        "name": "high impact projectiles",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-high-impact-projectiles.jpeg",
+        "initiative": 16,
+        "level": 1
+      },
+      {
+        "name": "hunter-killer",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-hunter-killer.jpeg",
+        "initiative": 84,
+        "level": 1
+      },
+      {
+        "name": "interference",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-interference.jpeg",
+        "initiative": 21,
+        "level": 1
+      },
+      {
+        "name": "launch pod",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-launch-pod.jpeg",
+        "initiative": 77,
+        "level": 1
+      },
+      {
+        "name": "plated defense",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-plated-defense.jpeg",
+        "initiative": 80,
+        "level": 1
+      },
+      {
+        "name": "prepare for deployment",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-prepare-for-deployment.jpeg",
+        "initiative": 64,
+        "level": 1
+      },
+      {
+        "name": "reaper function",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-reaper-function.jpeg",
+        "initiative": 32,
+        "level": 1
+      },
+      {
+        "name": "reconstructive aid",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-reconstructive-aid.jpeg",
+        "initiative": 90,
+        "level": 1
+      },
+      {
+        "name": "reassemble",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-reassemble.jpeg",
+        "initiative": 27,
+        "level": 1.5
+      },
+      {
+        "name": "remote control",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-remote-control.jpeg",
+        "initiative": 48,
+        "level": 1.5
+      },
+      {
+        "name": "shocking pulse",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-shocking-pulse.jpeg",
+        "initiative": 86,
+        "level": 1.5
+      },
+      {
+        "name": "force field",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-force-field.jpeg",
+        "initiative": 78,
+        "level": 2
+      },
+      {
+        "name": "long-range missile",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-long-range-missile.jpeg",
+        "initiative": 19,
+        "level": 2
+      },
+      {
+        "name": "hijack",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-hijack.jpeg",
+        "initiative": 40,
+        "level": 3
+      },
+      {
+        "name": "rapid fire",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-rapid-fire.jpeg",
+        "initiative": 92,
+        "level": 3
+      },
+      {
+        "name": "divergent destruction",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-divergent-destruction.jpeg",
+        "initiative": 22,
+        "level": 4
+      },
+      {
+        "name": "plague protocol",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-plague-protocol.jpeg",
+        "initiative": 98,
+        "level": 4
+      },
+      {
+        "name": "code geminate",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-code-geminate.jpeg",
+        "initiative": 28,
+        "level": 5
+      },
+      {
+        "name": "net dispersal",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-net-dispersal.jpeg",
+        "initiative": 94,
+        "level": 5
+      },
+      {
+        "name": "spinning blades",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-spinning-blades.jpeg",
+        "initiative": 79,
+        "level": 6
+      },
+      {
+        "name": "triage program",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-triage-program.jpeg",
+        "initiative": 13,
+        "level": 6
+      },
+      {
+        "name": "mortar shells",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-mortar-shells.jpeg",
+        "initiative": 85,
+        "level": 7
+      },
+      {
+        "name": "recall",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-recall.jpeg",
+        "initiative": 91,
+        "level": 7
+      },
+      {
+        "name": "burning slash",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-burning-slash.jpeg",
+        "initiative": 29,
+        "level": 8
+      },
+      {
+        "name": "swarming bulwark",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-swarming-bulwark.jpeg",
+        "initiative": 96,
+        "level": 8
+      },
+      {
+        "name": "disassemble",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-disassemble.jpeg",
+        "initiative": 20,
+        "level": 9
+      },
+      {
+        "name": "heavy metal",
+        "class": "HV",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/HV/fh-heavy-metal.jpeg",
+        "initiative": 76,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

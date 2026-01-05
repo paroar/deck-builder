@@ -1,0 +1,249 @@
+{
+  "pageProps": {
+    "cards": 10,
+    "icon": "icons/characters/fh/PY.png",
+    "searchResults": [
+      {
+        "name": "Pyroclast",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-py-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "cloud of ash",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-cloud-of-ash.jpeg",
+        "initiative": 23,
+        "level": 1
+      },
+      {
+        "name": "cooling",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-cooling.jpeg",
+        "initiative": 75,
+        "level": 1
+      },
+      {
+        "name": "eruption",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-eruption.jpeg",
+        "initiative": 47,
+        "level": 1
+      },
+      {
+        "name": "flowing fire",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-flowing-fire.jpeg",
+        "initiative": 20,
+        "level": 1
+      },
+      {
+        "name": "igneous path",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-igneous-path.jpeg",
+        "initiative": 18,
+        "level": 1
+      },
+      {
+        "name": "lava bomb",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-lava-bomb.jpeg",
+        "initiative": 53,
+        "level": 1
+      },
+      {
+        "name": "liquid stone",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-liquid-stone.jpeg",
+        "initiative": 28,
+        "level": 1
+      },
+      {
+        "name": "melted armor",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-melted-armor.jpeg",
+        "initiative": 62,
+        "level": 1
+      },
+      {
+        "name": "quenched rage",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-quenched-rage.jpeg",
+        "initiative": 30,
+        "level": 1
+      },
+      {
+        "name": "under pressure",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-under-pressure.jpeg",
+        "initiative": 85,
+        "level": 1
+      },
+      {
+        "name": "force of the earth",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-force-of-the-earth.jpeg",
+        "initiative": 15,
+        "level": 1.5
+      },
+      {
+        "name": "metamorphic rock",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-metamorphic-rock.jpeg",
+        "initiative": 68,
+        "level": 1.5
+      },
+      {
+        "name": "wildfire",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-wildfire.jpeg",
+        "initiative": 72,
+        "level": 1.5
+      },
+      {
+        "name": "deep fury",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-deep-fury.jpeg",
+        "initiative": 38,
+        "level": 2
+      },
+      {
+        "name": "searing smoke",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-searing-smoke.jpeg",
+        "initiative": 45,
+        "level": 2
+      },
+      {
+        "name": "hardened spike",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-hardened-spike.jpeg",
+        "initiative": 80,
+        "level": 3
+      },
+      {
+        "name": "living magma",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-living-magma.jpeg",
+        "initiative": 22,
+        "level": 3
+      },
+      {
+        "name": "hand of flame",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-hand-of-flame.jpeg",
+        "initiative": 29,
+        "level": 4
+      },
+      {
+        "name": "heat wave",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-heat-wave.jpeg",
+        "initiative": 8,
+        "level": 4
+      },
+      {
+        "name": "magma orbs",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-magma-orbs.jpeg",
+        "initiative": 82,
+        "level": 5
+      },
+      {
+        "name": "rain of fire",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-rain-of-fire.jpeg",
+        "initiative": 21,
+        "level": 5
+      },
+      {
+        "name": "obsidian shield",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-obsidian-shield.jpeg",
+        "initiative": 19,
+        "level": 6
+      },
+      {
+        "name": "return to the source",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-return-to-the-source.jpeg",
+        "initiative": 14,
+        "level": 6
+      },
+      {
+        "name": "erupting rage",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-erupting-rage.jpeg",
+        "initiative": 70,
+        "level": 7
+      },
+      {
+        "name": "swelter",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-swelter.jpeg",
+        "initiative": 32,
+        "level": 7
+      },
+      {
+        "name": "cinder lance",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-cinder-lance.jpeg",
+        "initiative": 90,
+        "level": 8
+      },
+      {
+        "name": "feed the beast",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-feed-the-beast.jpeg",
+        "initiative": 27,
+        "level": 8
+      },
+      {
+        "name": "calamity",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-calamity.jpeg",
+        "initiative": 35,
+        "level": 9
+      },
+      {
+        "name": "stone armor",
+        "class": "PY",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PY/fh-stone-armor.jpeg",
+        "initiative": 9,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

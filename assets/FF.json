@@ -1,0 +1,233 @@
+{
+  "pageProps": {
+    "cards": 8,
+    "icon": "icons/characters/fh/FF.png",
+    "searchResults": [
+      {
+        "name": "Frozen Fist",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-ff-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "cold boulder",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-cold-boulder.jpeg",
+        "initiative": 70,
+        "level": 1
+      },
+      {
+        "name": "encased punch",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-encased-punch.jpeg",
+        "initiative": 19,
+        "level": 1
+      },
+      {
+        "name": "frost eruption",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-frost-eruption.jpeg",
+        "initiative": 61,
+        "level": 1
+      },
+      {
+        "name": "fury of the mountain",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-fury-of-the-mountain.jpeg",
+        "initiative": 23,
+        "level": 1
+      },
+      {
+        "name": "ice blast",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-ice-blast.jpeg",
+        "initiative": 32,
+        "level": 1
+      },
+      {
+        "name": "one with the mountain",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-one-with-the-mountain.jpeg",
+        "initiative": 83,
+        "level": 1
+      },
+      {
+        "name": "piercing pummel",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-piercing-pummel.jpeg",
+        "initiative": 30,
+        "level": 1
+      },
+      {
+        "name": "voice from below",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-voice-from-below.jpeg",
+        "initiative": 22,
+        "level": 1
+      },
+      {
+        "name": "freezing shell",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-freezing-shell.jpeg",
+        "initiative": 17,
+        "level": 1.5
+      },
+      {
+        "name": "primal bellow",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-primal-bellow.jpeg",
+        "initiative": 84,
+        "level": 1.5
+      },
+      {
+        "name": "shard launch",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-shard-launch.jpeg",
+        "initiative": 52,
+        "level": 1.5
+      },
+      {
+        "name": "crushing crystals",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-crushing-crystals.jpeg",
+        "initiative": 67,
+        "level": 2
+      },
+      {
+        "name": "draw of the bedrock",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-draw-of-the-bedrock.jpeg",
+        "initiative": 10,
+        "level": 2
+      },
+      {
+        "name": "frozen over",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-frozen-over.jpeg",
+        "initiative": 20,
+        "level": 3
+      },
+      {
+        "name": "lacerating eruption",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-lacerating-eruption.jpeg",
+        "initiative": 51,
+        "level": 3
+      },
+      {
+        "name": "packed solid",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-packed-solid.jpeg",
+        "initiative": 55,
+        "level": 4
+      },
+      {
+        "name": "the mountain's fist",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-the-mountains-fist.jpeg",
+        "initiative": 16,
+        "level": 4
+      },
+      {
+        "name": "ice uppercut",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-ice-uppercut.jpeg",
+        "initiative": 15,
+        "level": 5
+      },
+      {
+        "name": "preserved fury",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-preserved-fury.jpeg",
+        "initiative": 49,
+        "level": 5
+      },
+      {
+        "name": "glacier slam",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-glacier-slam.jpeg",
+        "initiative": 84,
+        "level": 6
+      },
+      {
+        "name": "thick frost",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-thick-frost.jpeg",
+        "initiative": 21,
+        "level": 6
+      },
+      {
+        "name": "gift of the mountain",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-gift-of-the-mountain.jpeg",
+        "initiative": 73,
+        "level": 7
+      },
+      {
+        "name": "seeing stars",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-seeing-stars.jpeg",
+        "initiative": 29,
+        "level": 7
+      },
+      {
+        "name": "draw strength",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-draw-strength.jpeg",
+        "initiative": 28,
+        "level": 8
+      },
+      {
+        "name": "shattering blow",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-shattering-blow.jpeg",
+        "initiative": 18,
+        "level": 8
+      },
+      {
+        "name": "bring down the mountain",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-bring-down-the-mountain.jpeg",
+        "initiative": 9,
+        "level": 9
+      },
+      {
+        "name": "frozen spike",
+        "class": "FF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/FF/fh-frozen-spike.jpeg",
+        "initiative": 33,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

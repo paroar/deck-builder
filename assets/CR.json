@@ -1,0 +1,265 @@
+{
+  "pageProps": {
+    "cards": 12,
+    "icon": "icons/characters/fh/CR.png",
+    "searchResults": [
+      {
+        "name": "Crashing Tide",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-cr-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "cleansing swell",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-cleansing-swell.jpeg",
+        "initiative": 45,
+        "level": 1
+      },
+      {
+        "name": "crashing surge",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-crashing-surge.jpeg",
+        "initiative": 34,
+        "level": 1
+      },
+      {
+        "name": "cresting force",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-cresting-force.jpeg",
+        "initiative": 87,
+        "level": 1
+      },
+      {
+        "name": "down to the depths",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-down-to-the-depths.jpeg",
+        "initiative": 74,
+        "level": 1
+      },
+      {
+        "name": "mighty claws",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-mighty-claws.jpeg",
+        "initiative": 23,
+        "level": 1
+      },
+      {
+        "name": "overwhelming wave",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-overwhelming-wave.jpeg",
+        "initiative": 86,
+        "level": 1
+      },
+      {
+        "name": "pool of power",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-pool-of-power.jpeg",
+        "initiative": 41,
+        "level": 1
+      },
+      {
+        "name": "rancid brine",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-rancid-brine.jpeg",
+        "initiative": 62,
+        "level": 1
+      },
+      {
+        "name": "sharp chitin",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-sharp-chitin.jpeg",
+        "initiative": 25,
+        "level": 1
+      },
+      {
+        "name": "skitter",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-skitter.jpeg",
+        "initiative": 51,
+        "level": 1
+      },
+      {
+        "name": "soft flesh",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-soft-flesh.jpeg",
+        "initiative": 75,
+        "level": 1
+      },
+      {
+        "name": "submerge",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-submerge.jpeg",
+        "initiative": 68,
+        "level": 1
+      },
+      {
+        "name": "crush armor",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-crush-armor.jpeg",
+        "initiative": 42,
+        "level": 1.5
+      },
+      {
+        "name": "rising flood",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-rising-flood.jpeg",
+        "initiative": 49,
+        "level": 1.5
+      },
+      {
+        "name": "undertow",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-undertow.jpeg",
+        "initiative": 15,
+        "level": 1.5
+      },
+      {
+        "name": "blood in the water",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-blood-in-the-water.jpeg",
+        "initiative": 53,
+        "level": 2
+      },
+      {
+        "name": "smashing torrent",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-smashing-torrent.jpeg",
+        "initiative": 79,
+        "level": 2
+      },
+      {
+        "name": "endless cycle",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-endless-cycle.jpeg",
+        "initiative": 8,
+        "level": 3
+      },
+      {
+        "name": "shuck",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-shuck.jpeg",
+        "initiative": 55,
+        "level": 3
+      },
+      {
+        "name": "chaotic refraction",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-chaotic-refraction.jpeg",
+        "initiative": 26,
+        "level": 4
+      },
+      {
+        "name": "clean sweep",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-clean-sweep.jpeg",
+        "initiative": 65,
+        "level": 4
+      },
+      {
+        "name": "sodden soil",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-sodden-soil.jpeg",
+        "initiative": 17,
+        "level": 5
+      },
+      {
+        "name": "tidal blast",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-tidal-blast.jpeg",
+        "initiative": 71,
+        "level": 5
+      },
+      {
+        "name": "powerful pincer",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-powerful-pincer.jpeg",
+        "initiative": 70,
+        "level": 6
+      },
+      {
+        "name": "twilight grasp",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-twilight-grasp.jpeg",
+        "initiative": 33,
+        "level": 6
+      },
+      {
+        "name": "drown beneath the waves",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-drown-beneath-the-waves.jpeg",
+        "initiative": 9,
+        "level": 7
+      },
+      {
+        "name": "dug in",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-dug-in.jpeg",
+        "initiative": 76,
+        "level": 7
+      },
+      {
+        "name": "death on all sides",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-death-on-all-sides.jpeg",
+        "initiative": 73,
+        "level": 8
+      },
+      {
+        "name": "ebb and flow",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-ebb-and-flow.jpeg",
+        "initiative": 24,
+        "level": 8
+      },
+      {
+        "name": "high tide",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-high-tide.jpeg",
+        "initiative": 90,
+        "level": 9
+      },
+      {
+        "name": "low tide",
+        "class": "CR",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/CR/fh-low-tide.jpeg",
+        "initiative": 10,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

@@ -1,0 +1,249 @@
+{
+  "pageProps": {
+    "cards": 10,
+    "icon": "icons/characters/fh/DT.png",
+    "searchResults": [
+      {
+        "name": "Deepwraith",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-dt-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "black scythe",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-black-scythe.jpeg",
+        "initiative": 45,
+        "level": 1
+      },
+      {
+        "name": "hollow aura",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-hollow-aura.jpeg",
+        "initiative": 88,
+        "level": 1
+      },
+      {
+        "name": "ink cloud",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-ink-cloud.jpeg",
+        "initiative": 28,
+        "level": 1
+      },
+      {
+        "name": "lacerating stabs",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-lacerating-stabs.jpeg",
+        "initiative": 14,
+        "level": 1
+      },
+      {
+        "name": "mantle of dread",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-mantle-of-dread.jpeg",
+        "initiative": 96,
+        "level": 1
+      },
+      {
+        "name": "skewer the flesh",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-skewer-the-flesh.jpeg",
+        "initiative": 86,
+        "level": 1
+      },
+      {
+        "name": "skull collection",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-skull-collection.jpeg",
+        "initiative": 22,
+        "level": 1
+      },
+      {
+        "name": "staring into the abyss",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-staring-into-the-abyss.jpeg",
+        "initiative": 63,
+        "level": 1
+      },
+      {
+        "name": "succumb to fear",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-succumb-to-fear.jpeg",
+        "initiative": 20,
+        "level": 1
+      },
+      {
+        "name": "tumultuous panic",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-tumultuous-panic.jpeg",
+        "initiative": 66,
+        "level": 1
+      },
+      {
+        "name": "haunting brutality",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-haunting-brutality.jpeg",
+        "initiative": 23,
+        "level": 1.5
+      },
+      {
+        "name": "morbid camouflage",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-morbid-camouflage.jpeg",
+        "initiative": 31,
+        "level": 1.5
+      },
+      {
+        "name": "soul hunger",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-soul-hunger.jpeg",
+        "initiative": 91,
+        "level": 1.5
+      },
+      {
+        "name": "lie in wait",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-lie-in-wait.jpeg",
+        "initiative": 98,
+        "level": 2
+      },
+      {
+        "name": "slipping into death",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-slipping-into-death.jpeg",
+        "initiative": 89,
+        "level": 2
+      },
+      {
+        "name": "crippling terror",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-crippling-terror.jpeg",
+        "initiative": 15,
+        "level": 3
+      },
+      {
+        "name": "pinning spines",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-pinning-spines.jpeg",
+        "initiative": 25,
+        "level": 3
+      },
+      {
+        "name": "crushing darkness",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-crushing-darkness.jpeg",
+        "initiative": 40,
+        "level": 4
+      },
+      {
+        "name": "grim trophies",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-grim-trophies.jpeg",
+        "initiative": 18,
+        "level": 4
+      },
+      {
+        "name": "death spiral",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-death-spiral.jpeg",
+        "initiative": 48,
+        "level": 5
+      },
+      {
+        "name": "extra decoration",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-extra-decoration.jpeg",
+        "initiative": 92,
+        "level": 5
+      },
+      {
+        "name": "claw of doom",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-claw-of-doom.jpeg",
+        "initiative": 30,
+        "level": 6
+      },
+      {
+        "name": "the remorseless deep",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-the-remorseless-deep.jpeg",
+        "initiative": 22,
+        "level": 6
+      },
+      {
+        "name": "dire frenzy",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-dire-frenzy.jpeg",
+        "initiative": 26,
+        "level": 7
+      },
+      {
+        "name": "hasten the end",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-hasten-the-end.jpeg",
+        "initiative": 65,
+        "level": 7
+      },
+      {
+        "name": "rip from the bone",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-rip-from-the-bone.jpeg",
+        "initiative": 11,
+        "level": 8
+      },
+      {
+        "name": "unseen horror",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-unseen-horror.jpeg",
+        "initiative": 19,
+        "level": 8
+      },
+      {
+        "name": "black night of the deep",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-black-night-of-the-deep.jpeg",
+        "initiative": 26,
+        "level": 9
+      },
+      {
+        "name": "consume the helpless",
+        "class": "DT",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DT/fh-consume-the-helpless.jpeg",
+        "initiative": 12,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

@@ -1,0 +1,289 @@
+{
+  "pageProps": {
+    "cards": 14,
+    "icon": "icons/characters/fh/GE.png",
+    "searchResults": [
+      {
+        "name": "Geminate",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-ge-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "changeling's boon",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-changelings-boon.jpeg",
+        "initiative": 40,
+        "level": 1
+      },
+      {
+        "name": "drag down",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-drag-down.jpeg",
+        "initiative": 34,
+        "level": 1
+      },
+      {
+        "name": "draining pincers",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-draining-pincers.jpeg",
+        "initiative": 72,
+        "level": 1
+      },
+      {
+        "name": "firefly swarm",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-firefly-swarm.jpeg",
+        "initiative": 76,
+        "level": 1
+      },
+      {
+        "name": "flailing tendrils",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-flailing-tendrils.jpeg",
+        "initiative": 12,
+        "level": 1
+      },
+      {
+        "name": "hail of thorns",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-hail-of-thorns.jpeg",
+        "initiative": 88,
+        "level": 1
+      },
+      {
+        "name": "harvest the essence",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-harvest-the-essence.jpeg",
+        "initiative": 60,
+        "level": 1
+      },
+      {
+        "name": "hornbeetle carapace",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-hornbeetle-carapace.jpeg",
+        "initiative": 20,
+        "level": 1
+      },
+      {
+        "name": "hornet stingers",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-hornet-stingers.jpeg",
+        "initiative": 23,
+        "level": 1
+      },
+      {
+        "name": "icebound quills",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-icebound-quills.jpeg",
+        "initiative": 14,
+        "level": 1
+      },
+      {
+        "name": "into my embrace",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-into-my-embrace.jpeg",
+        "initiative": 36,
+        "level": 1
+      },
+      {
+        "name": "mind spike",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-mind-spike.jpeg",
+        "initiative": 18,
+        "level": 1
+      },
+      {
+        "name": "scarab flight",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-scarab-flight.jpeg",
+        "initiative": 30,
+        "level": 1
+      },
+      {
+        "name": "selfless offering",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-selfless-offering.jpeg",
+        "initiative": 27,
+        "level": 1
+      },
+      {
+        "name": "feeding frenzy",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-feeding-frenzy.jpeg",
+        "initiative": 62,
+        "level": 1.5
+      },
+      {
+        "name": "reckless jab",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-reckless-jab.jpeg",
+        "initiative": 38,
+        "level": 1.5
+      },
+      {
+        "name": "reshape the guise",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-reshape-the-guise.jpeg",
+        "initiative": 38,
+        "level": 1.5
+      },
+      {
+        "name": "smoldering hatred",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-smoldering-hatred.jpeg",
+        "initiative": 32,
+        "level": 1.5
+      },
+      {
+        "name": "locust host",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-locust-host.jpeg",
+        "initiative": 23,
+        "level": 2
+      },
+      {
+        "name": "venomous barbs",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-venomous-barbs.jpeg",
+        "initiative": 17,
+        "level": 2
+      },
+      {
+        "name": "dragonfly surge",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-dragonfly-surge.jpeg",
+        "initiative": 50,
+        "level": 3
+      },
+      {
+        "name": "mandible storm",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-mandible-storm.jpeg",
+        "initiative": 30,
+        "level": 3
+      },
+      {
+        "name": "luminous descent",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-luminous-descent.jpeg",
+        "initiative": 67,
+        "level": 4
+      },
+      {
+        "name": "thresh and flail",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-thresh-and-flail.jpeg",
+        "initiative": 43,
+        "level": 4
+      },
+      {
+        "name": "chitinous horde",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-chitinous-horde.jpeg",
+        "initiative": 15,
+        "level": 5
+      },
+      {
+        "name": "formless grace",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-formless-grace.jpeg",
+        "initiative": 75,
+        "level": 5
+      },
+      {
+        "name": "corrosive acids",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-corrosive-acids.jpeg",
+        "initiative": 28,
+        "level": 6
+      },
+      {
+        "name": "hirudotherapy",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-hirudotherapy.jpeg",
+        "initiative": 92,
+        "level": 6
+      },
+      {
+        "name": "alluring pheromones",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-alluring-pheromones.jpeg",
+        "initiative": 49,
+        "level": 7
+      },
+      {
+        "name": "two-pronged entrapment",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-two-pronged-entrapment.jpeg",
+        "initiative": 21,
+        "level": 7
+      },
+      {
+        "name": "accelerated metabolism",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-accelerated-metabolism.jpeg",
+        "initiative": 85,
+        "level": 8
+      },
+      {
+        "name": "oscillating entity",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-oscillating-entity.jpeg",
+        "initiative": 55,
+        "level": 8
+      },
+      {
+        "name": "harbinger of ruin",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-harbinger-of-ruin.jpeg",
+        "initiative": 11,
+        "level": 9
+      },
+      {
+        "name": "voice of salvation",
+        "class": "GE",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/GE/fh-voice-of-salvation.jpeg",
+        "initiative": 39,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

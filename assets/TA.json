@@ -1,0 +1,241 @@
+{
+  "pageProps": {
+    "cards": 9,
+    "icon": "icons/characters/fh/TA.png",
+    "searchResults": [
+      {
+        "name": "Trapper",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-ta-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "boar catcher",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-boar-catcher.jpeg",
+        "initiative": 20,
+        "level": 1
+      },
+      {
+        "name": "caltrops",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-caltrops.jpeg",
+        "initiative": 25,
+        "level": 1
+      },
+      {
+        "name": "electrified net",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-electrified-net.jpeg",
+        "initiative": 53,
+        "level": 1
+      },
+      {
+        "name": "enticing bait",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-enticing-bait.jpeg",
+        "initiative": 30,
+        "level": 1
+      },
+      {
+        "name": "exploding decoy",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-exploding-decoy.jpeg",
+        "initiative": 62,
+        "level": 1
+      },
+      {
+        "name": "flurry of nails",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-flurry-of-nails.jpeg",
+        "initiative": 68,
+        "level": 1
+      },
+      {
+        "name": "furry facade",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-furry-facade.jpeg",
+        "initiative": 85,
+        "level": 1
+      },
+      {
+        "name": "honeypot",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-honeypot.jpeg",
+        "initiative": 18,
+        "level": 1
+      },
+      {
+        "name": "spike pit",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-spike-pit.jpeg",
+        "initiative": 47,
+        "level": 1
+      },
+      {
+        "name": "dismantle",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-dismantle.jpeg",
+        "initiative": 72,
+        "level": 1.5
+      },
+      {
+        "name": "improvised improvement",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-improvised-improvement.jpeg",
+        "initiative": 58,
+        "level": 1.5
+      },
+      {
+        "name": "spring-loaded",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-spring-loaded.jpeg",
+        "initiative": 15,
+        "level": 1.5
+      },
+      {
+        "name": "path of pain",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-path-of-pain.jpeg",
+        "initiative": 38,
+        "level": 2
+      },
+      {
+        "name": "unavoidable outcome",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-unavoidable-outcome.jpeg",
+        "initiative": 45,
+        "level": 2
+      },
+      {
+        "name": "extra teeth",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-extra-teeth.jpeg",
+        "initiative": 22,
+        "level": 3
+      },
+      {
+        "name": "pyrotechnics",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-pyrotechnics.jpeg",
+        "initiative": 80,
+        "level": 3
+      },
+      {
+        "name": "dangerous ground",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-dangerous-ground.jpeg",
+        "initiative": 31,
+        "level": 4
+      },
+      {
+        "name": "stalker's spoils",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-stalkers-spoils.jpeg",
+        "initiative": 10,
+        "level": 4
+      },
+      {
+        "name": "lure of the snare",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-lure-of-the-snare.jpeg",
+        "initiative": 59,
+        "level": 5
+      },
+      {
+        "name": "proficient hunter",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-proficient-hunter.jpeg",
+        "initiative": 26,
+        "level": 5
+      },
+      {
+        "name": "cage of thorns",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-cage-of-thorns.jpeg",
+        "initiative": 55,
+        "level": 6
+      },
+      {
+        "name": "persistent pitfalls",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-persistent-pitfalls.jpeg",
+        "initiative": 13,
+        "level": 6
+      },
+      {
+        "name": "foxhole",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-foxhole.jpeg",
+        "initiative": 90,
+        "level": 7
+      },
+      {
+        "name": "grasping hazards",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-grasping-hazards.jpeg",
+        "initiative": 8,
+        "level": 7
+      },
+      {
+        "name": "magnetic shards",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-magnetic-shards.jpeg",
+        "initiative": 37,
+        "level": 8
+      },
+      {
+        "name": "spike strip",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-spike-strip.jpeg",
+        "initiative": 67,
+        "level": 8
+      },
+      {
+        "name": "dangerous cargo",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-dangerous-cargo.jpeg",
+        "initiative": 23,
+        "level": 9
+      },
+      {
+        "name": "mother of all traps",
+        "class": "TA",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/TA/fh-mother-of-all-traps.jpeg",
+        "initiative": 86,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

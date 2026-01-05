@@ -1,0 +1,249 @@
+{
+  "pageProps": {
+    "cards": 10,
+    "icon": "icons/characters/fh/SH.png",
+    "searchResults": [
+      {
+        "name": "Shattersong",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-sh-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "devastating shout",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-devastating-shout.jpeg",
+        "initiative": 68,
+        "level": 1
+      },
+      {
+        "name": "empowering pulse",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-empowering-pulse.jpeg",
+        "initiative": 22,
+        "level": 1
+      },
+      {
+        "name": "forceful vibrations",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-forceful-vibrations.jpeg",
+        "initiative": 27,
+        "level": 1
+      },
+      {
+        "name": "foreboding tremors",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-foreboding-tremors.jpeg",
+        "initiative": 21,
+        "level": 1
+      },
+      {
+        "name": "heartening harmony",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-heartening-harmony.jpeg",
+        "initiative": 30,
+        "level": 1
+      },
+      {
+        "name": "lifting voice",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-lifting-voice.jpeg",
+        "initiative": 29,
+        "level": 1
+      },
+      {
+        "name": "precious gems",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-precious-gems.jpeg",
+        "initiative": 10,
+        "level": 1
+      },
+      {
+        "name": "resonant frequency",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-resonant-frequency.jpeg",
+        "initiative": 88,
+        "level": 1
+      },
+      {
+        "name": "sonic shock",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-sonic-shock.jpeg",
+        "initiative": 58,
+        "level": 1
+      },
+      {
+        "name": "unrelenting wail",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-unrelenting-wail.jpeg",
+        "initiative": 26,
+        "level": 1
+      },
+      {
+        "name": "calamitous yawp",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-calamitous-yawp.jpeg",
+        "initiative": 65,
+        "level": 1.5
+      },
+      {
+        "name": "din of battle",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-din-of-battle.jpeg",
+        "initiative": 14,
+        "level": 1.5
+      },
+      {
+        "name": "illuminative tone",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-illuminative-tone.jpeg",
+        "initiative": 72,
+        "level": 1.5
+      },
+      {
+        "name": "befuddling bellow",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-befuddling-bellow.jpeg",
+        "initiative": 18,
+        "level": 2
+      },
+      {
+        "name": "transparency",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-transparency.jpeg",
+        "initiative": 13,
+        "level": 2
+      },
+      {
+        "name": "shape the path",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-shape-the-path.jpeg",
+        "initiative": 40,
+        "level": 3
+      },
+      {
+        "name": "stealth vibrations",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-stealth-vibrations.jpeg",
+        "initiative": 35,
+        "level": 3
+      },
+      {
+        "name": "concentrated blast",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-concentrated-blast.jpeg",
+        "initiative": 38,
+        "level": 4
+      },
+      {
+        "name": "elemental pulse",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-elemental-pulse.jpeg",
+        "initiative": 25,
+        "level": 4
+      },
+      {
+        "name": "empowering note",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-empowering-note.jpeg",
+        "initiative": 45,
+        "level": 5
+      },
+      {
+        "name": "shrieking chakram",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-shrieking-chakram.jpeg",
+        "initiative": 8,
+        "level": 5
+      },
+      {
+        "name": "future sense",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-future-sense.jpeg",
+        "initiative": 28,
+        "level": 6
+      },
+      {
+        "name": "unsustainable wave",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-unsustainable-wave.jpeg",
+        "initiative": 36,
+        "level": 6
+      },
+      {
+        "name": "cloaking refraction",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-cloaking-refraction.jpeg",
+        "initiative": 11,
+        "level": 7
+      },
+      {
+        "name": "sound therapy",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-sound-therapy.jpeg",
+        "initiative": 73,
+        "level": 7
+      },
+      {
+        "name": "feedback",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-feedback.jpeg",
+        "initiative": 24,
+        "level": 8
+      },
+      {
+        "name": "soft spots",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-soft-spots.jpeg",
+        "initiative": 47,
+        "level": 8
+      },
+      {
+        "name": "barbaric yawp",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-barbaric-yawp.jpeg",
+        "initiative": 66,
+        "level": 9
+      },
+      {
+        "name": "violent vibrations",
+        "class": "SH",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SH/fh-violent-vibrations.jpeg",
+        "initiative": 5,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

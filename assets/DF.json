@@ -1,0 +1,265 @@
+{
+  "pageProps": {
+    "cards": 12,
+    "icon": "icons/characters/fh/DF.png",
+    "searchResults": [
+      {
+        "name": "Drifter",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-df-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "bloodletting",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-bloodletting.jpeg",
+        "initiative": 65,
+        "level": 1
+      },
+      {
+        "name": "continuous health",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-continuous-health.jpeg",
+        "initiative": 61,
+        "level": 1
+      },
+      {
+        "name": "crushing weight",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-crushing-weight.jpeg",
+        "initiative": 71,
+        "level": 1
+      },
+      {
+        "name": "deadly shot",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-deadly-shot.jpeg",
+        "initiative": 32,
+        "level": 1
+      },
+      {
+        "name": "draining arrows",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-draining-arrows.jpeg",
+        "initiative": 23,
+        "level": 1
+      },
+      {
+        "name": "precision aim",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-precision-aim.jpeg",
+        "initiative": 66,
+        "level": 1
+      },
+      {
+        "name": "prudent preparation",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-prudent-preparation.jpeg",
+        "initiative": 14,
+        "level": 1
+      },
+      {
+        "name": "relentless",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-relentless.jpeg",
+        "initiative": 89,
+        "level": 1
+      },
+      {
+        "name": "sustained momentum",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-sustained-momentum.jpeg",
+        "initiative": 76,
+        "level": 1
+      },
+      {
+        "name": "unbreakable",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-unbreakable.jpeg",
+        "initiative": 90,
+        "level": 1
+      },
+      {
+        "name": "vile assault",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-vile-assault.jpeg",
+        "initiative": 27,
+        "level": 1
+      },
+      {
+        "name": "violent inheritance",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-violent-inheritance.jpeg",
+        "initiative": 70,
+        "level": 1
+      },
+      {
+        "name": "destructive fury",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-destructive-fury.jpeg",
+        "initiative": 19,
+        "level": 1.5
+      },
+      {
+        "name": "fortitude",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-fortitude.jpeg",
+        "initiative": 31,
+        "level": 1.5
+      },
+      {
+        "name": "no remorse",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-no-remorse.jpeg",
+        "initiative": 20,
+        "level": 1.5
+      },
+      {
+        "name": "ever forward",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-ever-forward.jpeg",
+        "initiative": 67,
+        "level": 2
+      },
+      {
+        "name": "shockwave",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-shockwave.jpeg",
+        "initiative": 17,
+        "level": 2
+      },
+      {
+        "name": "dual bow",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-dual-bow.jpeg",
+        "initiative": 26,
+        "level": 3
+      },
+      {
+        "name": "fierce barrage",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-fierce-barrage.jpeg",
+        "initiative": 32,
+        "level": 3
+      },
+      {
+        "name": "chunk of flesh",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-chunk-of-flesh.jpeg",
+        "initiative": 62,
+        "level": 4
+      },
+      {
+        "name": "gift of the prey",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-gift-of-the-prey.jpeg",
+        "initiative": 40,
+        "level": 4
+      },
+      {
+        "name": "break through",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-break-through.jpeg",
+        "initiative": 34,
+        "level": 5
+      },
+      {
+        "name": "survivalist",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-survivalist.jpeg",
+        "initiative": 91,
+        "level": 5
+      },
+      {
+        "name": "accurate strikes",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-accurate-strikes.jpeg",
+        "initiative": 56,
+        "level": 6
+      },
+      {
+        "name": "consume stamina",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-consume-stamina.jpeg",
+        "initiative": 21,
+        "level": 6
+      },
+      {
+        "name": "like the wind",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-like-the-wind.jpeg",
+        "initiative": 77,
+        "level": 7
+      },
+      {
+        "name": "unending fight",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-unending-fight.jpeg",
+        "initiative": 25,
+        "level": 7
+      },
+      {
+        "name": "against all odds",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-against-all-odds.jpeg",
+        "initiative": 37,
+        "level": 8
+      },
+      {
+        "name": "inevitable conclusion",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-inevitable-conclusion.jpeg",
+        "initiative": 29,
+        "level": 8
+      },
+      {
+        "name": "everlasting",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-everlasting.jpeg",
+        "initiative": 96,
+        "level": 9
+      },
+      {
+        "name": "use every part",
+        "class": "DF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DF/fh-use-every-part.jpeg",
+        "initiative": 18,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

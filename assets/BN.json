@@ -1,0 +1,249 @@
+{
+  "pageProps": {
+    "cards": 10,
+    "icon": "icons/characters/fh/BN.png",
+    "searchResults": [
+      {
+        "name": "Banner Spear",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-bn-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "at all costs",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-at-all-costs.jpeg",
+        "initiative": 60,
+        "level": 1
+      },
+      {
+        "name": "combined effort",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-combined-effort.jpeg",
+        "initiative": 32,
+        "level": 1
+      },
+      {
+        "name": "deflecting maneuver",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-deflecting-maneuver.jpeg",
+        "initiative": 15,
+        "level": 1
+      },
+      {
+        "name": "javelin",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-javelin.jpeg",
+        "initiative": 21,
+        "level": 1
+      },
+      {
+        "name": "pincer movement",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-pincer-movement.jpeg",
+        "initiative": 69,
+        "level": 1
+      },
+      {
+        "name": "rallying cry",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-rallying-cry.jpeg",
+        "initiative": 71,
+        "level": 1
+      },
+      {
+        "name": "regroup",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-regroup.jpeg",
+        "initiative": 25,
+        "level": 1
+      },
+      {
+        "name": "set for the charge",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-set-for-the-charge.jpeg",
+        "initiative": 6,
+        "level": 1
+      },
+      {
+        "name": "tip of the spear",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-tip-of-the-spear.jpeg",
+        "initiative": 67,
+        "level": 1
+      },
+      {
+        "name": "unbreakable wall",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-unbreakable-wall.jpeg",
+        "initiative": 83,
+        "level": 1
+      },
+      {
+        "name": "driving inspiration",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-driving-inspiration.jpeg",
+        "initiative": 18,
+        "level": 1.5
+      },
+      {
+        "name": "incendiary throw",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-incendiary-throw.jpeg",
+        "initiative": 22,
+        "level": 1.5
+      },
+      {
+        "name": "resolved courage",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-resolved-courage.jpeg",
+        "initiative": 10,
+        "level": 1.5
+      },
+      {
+        "name": "meat grinder",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-meat-grinder.jpeg",
+        "initiative": 62,
+        "level": 2
+      },
+      {
+        "name": "pinning charge",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-pinning-charge.jpeg",
+        "initiative": 17,
+        "level": 2
+      },
+      {
+        "name": "head of the hammer",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-head-of-the-hammer.jpeg",
+        "initiative": 87,
+        "level": 3
+      },
+      {
+        "name": "let them come",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-let-them-come.jpeg",
+        "initiative": 24,
+        "level": 3
+      },
+      {
+        "name": "air support",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-air-support.jpeg",
+        "initiative": 20,
+        "level": 4
+      },
+      {
+        "name": "boldening blow",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-boldening-blow.jpeg",
+        "initiative": 72,
+        "level": 4
+      },
+      {
+        "name": "explosive epicenter",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-explosive-epicenter.jpeg",
+        "initiative": 78,
+        "level": 5
+      },
+      {
+        "name": "hold the line",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-hold-the-line.jpeg",
+        "initiative": 5,
+        "level": 5
+      },
+      {
+        "name": "barricade",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-barricade.jpeg",
+        "initiative": 16,
+        "level": 6
+      },
+      {
+        "name": "bolstering shout",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-bolstering-shout.jpeg",
+        "initiative": 75,
+        "level": 6
+      },
+      {
+        "name": "lead from afar",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-lead-from-afar.jpeg",
+        "initiative": 80,
+        "level": 7
+      },
+      {
+        "name": "tri-thrust",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-tri-thrust.jpeg",
+        "initiative": 27,
+        "level": 7
+      },
+      {
+        "name": "sweeping aid",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-sweeping-aid.jpeg",
+        "initiative": 73,
+        "level": 8
+      },
+      {
+        "name": "taunting howl",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-taunting-howl.jpeg",
+        "initiative": 11,
+        "level": 8
+      },
+      {
+        "name": "hail of spears",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-hail-of-spears.jpeg",
+        "initiative": 44,
+        "level": 9
+      },
+      {
+        "name": "take no prisoners",
+        "class": "BN",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BN/fh-take-no-prisoners.jpeg",
+        "initiative": 85,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

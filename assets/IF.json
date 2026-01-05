@@ -1,0 +1,257 @@
+{
+  "pageProps": {
+    "cards": 11,
+    "icon": "icons/characters/fh/IF.png",
+    "searchResults": [
+      {
+        "name": "Infuser",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-if-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "boon of the tempest",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-boon-of-the-tempest.jpeg",
+        "initiative": 28,
+        "level": 1
+      },
+      {
+        "name": "bounty of the earth",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-bounty-of-the-earth.jpeg",
+        "initiative": 23,
+        "level": 1
+      },
+      {
+        "name": "caress of the night",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-caress-of-the-night.jpeg",
+        "initiative": 87,
+        "level": 1
+      },
+      {
+        "name": "emerald edge",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-emerald-edge.jpeg",
+        "initiative": 70,
+        "level": 1
+      },
+      {
+        "name": "formless bladestorm",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-formless-bladestorm.jpeg",
+        "initiative": 33,
+        "level": 1
+      },
+      {
+        "name": "onyx shards",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-onyx-shards.jpeg",
+        "initiative": 20,
+        "level": 1
+      },
+      {
+        "name": "rising momentum",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-rising-momentum.jpeg",
+        "initiative": 25,
+        "level": 1
+      },
+      {
+        "name": "slashing cyclone",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-slashing-cyclone.jpeg",
+        "initiative": 14,
+        "level": 1
+      },
+      {
+        "name": "stoic vigilance",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-stoic-vigilance.jpeg",
+        "initiative": 12,
+        "level": 1
+      },
+      {
+        "name": "torrential cleave",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-torrential-cleave.jpeg",
+        "initiative": 83,
+        "level": 1
+      },
+      {
+        "name": "unstoppable impulse",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-unstoppable-impulse.jpeg",
+        "initiative": 56,
+        "level": 1
+      },
+      {
+        "name": "battle prowess",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-battle-prowess.jpeg",
+        "initiative": 78,
+        "level": 1.5
+      },
+      {
+        "name": "crystalline aegis",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-crystalline-aegis.jpeg",
+        "initiative": 17,
+        "level": 1.5
+      },
+      {
+        "name": "imbue with life",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-imbue-with-life.jpeg",
+        "initiative": 42,
+        "level": 1.5
+      },
+      {
+        "name": "remote impact",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-remote-impact.jpeg",
+        "initiative": 72,
+        "level": 2
+      },
+      {
+        "name": "veil of protection",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-veil-of-protection.jpeg",
+        "initiative": 47,
+        "level": 2
+      },
+      {
+        "name": "guide the flow",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-guide-the-flow.jpeg",
+        "initiative": 35,
+        "level": 3
+      },
+      {
+        "name": "reinforced riposte",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-reinforced-riposte.jpeg",
+        "initiative": 18,
+        "level": 3
+      },
+      {
+        "name": "coalescing darkness",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-coalescing-darkness.jpeg",
+        "initiative": 85,
+        "level": 4
+      },
+      {
+        "name": "desperate throw",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-desperate-throw.jpeg",
+        "initiative": 16,
+        "level": 4
+      },
+      {
+        "name": "gemstone resonance",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-gemstone-resonance.jpeg",
+        "initiative": 30,
+        "level": 5
+      },
+      {
+        "name": "obsidian spear",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-obsidian-spear.jpeg",
+        "initiative": 84,
+        "level": 5
+      },
+      {
+        "name": "gale barrage",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-gale-barrage.jpeg",
+        "initiative": 44,
+        "level": 6
+      },
+      {
+        "name": "propulsive tailwind",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-propulsive-tailwind.jpeg",
+        "initiative": 91,
+        "level": 6
+      },
+      {
+        "name": "diamondization",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-diamondization.jpeg",
+        "initiative": 10,
+        "level": 7
+      },
+      {
+        "name": "malachite shockwave",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-malachite-shockwave.jpeg",
+        "initiative": 68,
+        "level": 7
+      },
+      {
+        "name": "swift pivot",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-swift-pivot.jpeg",
+        "initiative": 8,
+        "level": 8
+      },
+      {
+        "name": "untether the shackles",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-untether-the-shackles.jpeg",
+        "initiative": 61,
+        "level": 8
+      },
+      {
+        "name": "ancient rites of power",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-ancient-rites-of-power.jpeg",
+        "initiative": 94,
+        "level": 9
+      },
+      {
+        "name": "sky-splitting strike",
+        "class": "IF",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/IF/fh-sky-splitting-strike.jpeg",
+        "initiative": 50,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

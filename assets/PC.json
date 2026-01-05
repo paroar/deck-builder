@@ -1,0 +1,249 @@
+{
+  "pageProps": {
+    "cards": 10,
+    "icon": "icons/characters/fh/PC.png",
+    "searchResults": [
+      {
+        "name": "Pain Conduit",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-pc-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "blood ritual",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-blood-ritual.jpeg",
+        "initiative": 56,
+        "level": 1
+      },
+      {
+        "name": "cleansing fire",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-cleansing-fire.jpeg",
+        "initiative": 64,
+        "level": 1
+      },
+      {
+        "name": "explosive wounds",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-explosive-wounds.jpeg",
+        "initiative": 43,
+        "level": 1
+      },
+      {
+        "name": "line of transference",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-line-of-transference.jpeg",
+        "initiative": 25,
+        "level": 1
+      },
+      {
+        "name": "scarred effigy",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-scarred-effigy.jpeg",
+        "initiative": 19,
+        "level": 1
+      },
+      {
+        "name": "shared affliction",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-shared-affliction.jpeg",
+        "initiative": 61,
+        "level": 1
+      },
+      {
+        "name": "swift vengeance",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-swift-vengeance.jpeg",
+        "initiative": 21,
+        "level": 1
+      },
+      {
+        "name": "the agony of others",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-the-agony-of-others.jpeg",
+        "initiative": 78,
+        "level": 1
+      },
+      {
+        "name": "transferred injury",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-transferred-injury.jpeg",
+        "initiative": 74,
+        "level": 1
+      },
+      {
+        "name": "unending torment",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-unending-torment.jpeg",
+        "initiative": 29,
+        "level": 1
+      },
+      {
+        "name": "delayed malady",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-delayed-malady.jpeg",
+        "initiative": 90,
+        "level": 1.5
+      },
+      {
+        "name": "pleasure in pain",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-pleasure-in-pain.jpeg",
+        "initiative": 47,
+        "level": 1.5
+      },
+      {
+        "name": "unstable effigy",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-unstable-effigy.jpeg",
+        "initiative": 18,
+        "level": 1.5
+      },
+      {
+        "name": "infection purge",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-infection-purge.jpeg",
+        "initiative": 45,
+        "level": 2
+      },
+      {
+        "name": "reversal of fate",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-reversal-of-fate.jpeg",
+        "initiative": 23,
+        "level": 2
+      },
+      {
+        "name": "burned at both ends",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-burned-at-both-ends.jpeg",
+        "initiative": 30,
+        "level": 3
+      },
+      {
+        "name": "reprisal",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-reprisal.jpeg",
+        "initiative": 70,
+        "level": 3
+      },
+      {
+        "name": "down to the dirt",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-down-to-the-dirt.jpeg",
+        "initiative": 39,
+        "level": 4
+      },
+      {
+        "name": "mirrored misery",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-mirrored-misery.jpeg",
+        "initiative": 72,
+        "level": 4
+      },
+      {
+        "name": "chained by despair",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-chained-by-despair.jpeg",
+        "initiative": 15,
+        "level": 5
+      },
+      {
+        "name": "chained by spite",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-chained-by-spite.jpeg",
+        "initiative": 15,
+        "level": 5
+      },
+      {
+        "name": "hopelessness",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-hopelessness.jpeg",
+        "initiative": 83,
+        "level": 6
+      },
+      {
+        "name": "phantom limb",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-phantom-limb.jpeg",
+        "initiative": 75,
+        "level": 6
+      },
+      {
+        "name": "penance",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-penance.jpeg",
+        "initiative": 12,
+        "level": 7
+      },
+      {
+        "name": "reject the gift",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-reject-the-gift.jpeg",
+        "initiative": 20,
+        "level": 7
+      },
+      {
+        "name": "wave of anguish",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-wave-of-anguish.jpeg",
+        "initiative": 68,
+        "level": 8
+      },
+      {
+        "name": "wracked with pain",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-wracked-with-pain.jpeg",
+        "initiative": 22,
+        "level": 8
+      },
+      {
+        "name": "redemption",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-redemption.jpeg",
+        "initiative": 33,
+        "level": 9
+      },
+      {
+        "name": "the end of everything",
+        "class": "PC",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/PC/fh-the-end-of-everything.jpeg",
+        "initiative": 99,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

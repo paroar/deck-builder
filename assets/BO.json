@@ -1,0 +1,265 @@
+{
+  "pageProps": {
+    "cards": 12,
+    "icon": "icons/characters/fh/BO.png",
+    "searchResults": [
+      {
+        "name": "Boneshaper",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-bo-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "angry spirits",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-angry-spirits.jpeg",
+        "initiative": 76,
+        "level": 1
+      },
+      {
+        "name": "command the wretched",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-command-the-wretched.jpeg",
+        "initiative": 83,
+        "level": 1
+      },
+      {
+        "name": "damned horde",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-damned-horde.jpeg",
+        "initiative": 71,
+        "level": 1
+      },
+      {
+        "name": "dark tidings",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-dark-tidings.jpeg",
+        "initiative": 43,
+        "level": 1
+      },
+      {
+        "name": "decaying will",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-decaying-will.jpeg",
+        "initiative": 46,
+        "level": 1
+      },
+      {
+        "name": "eternal torment",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-eternal-torment.jpeg",
+        "initiative": 70,
+        "level": 1
+      },
+      {
+        "name": "fell remedy",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-fell-remedy.jpeg",
+        "initiative": 30,
+        "level": 1
+      },
+      {
+        "name": "flow of the black river",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-flow-of-the-black-river.jpeg",
+        "initiative": 18,
+        "level": 1
+      },
+      {
+        "name": "life in death",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-life-in-death.jpeg",
+        "initiative": 91,
+        "level": 1
+      },
+      {
+        "name": "malicious conversion",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-malicious-conversion.jpeg",
+        "initiative": 26,
+        "level": 1
+      },
+      {
+        "name": "returned servant",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-returned-servant.jpeg",
+        "initiative": 81,
+        "level": 1
+      },
+      {
+        "name": "transfer of essence",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-transfer-of-essence.jpeg",
+        "initiative": 62,
+        "level": 1
+      },
+      {
+        "name": "approach oblivion",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-approach-oblivion.jpeg",
+        "initiative": 53,
+        "level": 1.5
+      },
+      {
+        "name": "exploding corpse",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-exploding-corpse.jpeg",
+        "initiative": 21,
+        "level": 1.5
+      },
+      {
+        "name": "wrath of the turned earth",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-wrath-of-the-turned-earth.jpeg",
+        "initiative": 80,
+        "level": 1.5
+      },
+      {
+        "name": "bone dagger",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-bone-dagger.jpeg",
+        "initiative": 29,
+        "level": 2
+      },
+      {
+        "name": "unearthed horror",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-unearthed-horror.jpeg",
+        "initiative": 94,
+        "level": 2
+      },
+      {
+        "name": "grave digging",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-grave-digging.jpeg",
+        "initiative": 96,
+        "level": 3
+      },
+      {
+        "name": "putrid cloud",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-putrid-cloud.jpeg",
+        "initiative": 28,
+        "level": 3
+      },
+      {
+        "name": "critical failure",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-critical-failure.jpeg",
+        "initiative": 95,
+        "level": 4
+      },
+      {
+        "name": "flesh shield",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-flesh-shield.jpeg",
+        "initiative": 16,
+        "level": 4
+      },
+      {
+        "name": "solid bones",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-solid-bones.jpeg",
+        "initiative": 32,
+        "level": 5
+      },
+      {
+        "name": "unforgivable methods",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-unforgivable-methods.jpeg",
+        "initiative": 98,
+        "level": 5
+      },
+      {
+        "name": "rotting multitude",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-rotting-multitude.jpeg",
+        "initiative": 66,
+        "level": 6
+      },
+      {
+        "name": "twisted decree",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-twisted-decree.jpeg",
+        "initiative": 85,
+        "level": 6
+      },
+      {
+        "name": "recycled limbs",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-recycled-limbs.jpeg",
+        "initiative": 52,
+        "level": 7
+      },
+      {
+        "name": "soul claim",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-soul-claim.jpeg",
+        "initiative": 23,
+        "level": 7
+      },
+      {
+        "name": "endless numbers",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-endless-numbers.jpeg",
+        "initiative": 86,
+        "level": 8
+      },
+      {
+        "name": "wailing from beyond",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-wailing-from-beyond.jpeg",
+        "initiative": 73,
+        "level": 8
+      },
+      {
+        "name": "behold the shrouded sun",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-behold-the-shrouded-sun.jpeg",
+        "initiative": 10,
+        "level": 9
+      },
+      {
+        "name": "unholy prowess",
+        "class": "BO",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/BO/fh-unholy-prowess.jpeg",
+        "initiative": 97,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

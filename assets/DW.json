@@ -1,0 +1,257 @@
+{
+  "pageProps": {
+    "cards": 11,
+    "icon": "icons/characters/fh/DW.png",
+    "searchResults": [
+      {
+        "name": "Deathwalker",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-dw-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "anger of the dead",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-anger-of-the-dead.jpeg",
+        "initiative": 14,
+        "level": 1
+      },
+      {
+        "name": "black barrage",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-black-barrage.jpeg",
+        "initiative": 28,
+        "level": 1
+      },
+      {
+        "name": "call of doom",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-call-of-doom.jpeg",
+        "initiative": 32,
+        "level": 1
+      },
+      {
+        "name": "call to the abyss",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-call-to-the-abyss.jpeg",
+        "initiative": 82,
+        "level": 1
+      },
+      {
+        "name": "dark fog",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-dark-fog.jpeg",
+        "initiative": 46,
+        "level": 1
+      },
+      {
+        "name": "eclipse",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-eclipse.jpeg",
+        "initiative": 86,
+        "level": 1
+      },
+      {
+        "name": "fluid night",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-fluid-night.jpeg",
+        "initiative": 24,
+        "level": 1
+      },
+      {
+        "name": "lingering rot",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-lingering-rot.jpeg",
+        "initiative": 64,
+        "level": 1
+      },
+      {
+        "name": "shadow step",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-shadow-step.jpeg",
+        "initiative": 19,
+        "level": 1
+      },
+      {
+        "name": "strength of the abyss",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-strength-of-the-abyss.jpeg",
+        "initiative": 50,
+        "level": 1
+      },
+      {
+        "name": "sunless apparition",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-sunless-apparition.jpeg",
+        "initiative": 96,
+        "level": 1
+      },
+      {
+        "name": "forceful spirits",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-forceful-spirits.jpeg",
+        "initiative": 34,
+        "level": 1.5
+      },
+      {
+        "name": "rest in the shade",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-rest-in-the-shade.jpeg",
+        "initiative": 26,
+        "level": 1.5
+      },
+      {
+        "name": "wave of anguish",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-wave-of-anguish.jpeg",
+        "initiative": 58,
+        "level": 1.5
+      },
+      {
+        "name": "deepening despair",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-deepening-despair.jpeg",
+        "initiative": 11,
+        "level": 2
+      },
+      {
+        "name": "restless spirits",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-restless-spirits.jpeg",
+        "initiative": 20,
+        "level": 2
+      },
+      {
+        "name": "dead bolt",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-dead-bolt.jpeg",
+        "initiative": 88,
+        "level": 3
+      },
+      {
+        "name": "ritual sacrifice",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-ritual-sacrifice.jpeg",
+        "initiative": 13,
+        "level": 3
+      },
+      {
+        "name": "fleeting dusk",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-fleeting-dusk.jpeg",
+        "initiative": 36,
+        "level": 4
+      },
+      {
+        "name": "pulled across",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-pulled-across.jpeg",
+        "initiative": 77,
+        "level": 4
+      },
+      {
+        "name": "dominate",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-dominate.jpeg",
+        "initiative": 29,
+        "level": 5
+      },
+      {
+        "name": "medium",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-medium.jpeg",
+        "initiative": 55,
+        "level": 5
+      },
+      {
+        "name": "the night takes shape",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-the-night-takes-shape.jpeg",
+        "initiative": 94,
+        "level": 6
+      },
+      {
+        "name": "vengeful storm",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-vengeful-storm.jpeg",
+        "initiative": 18,
+        "level": 6
+      },
+      {
+        "name": "hungry grasps",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-hungry-grasps.jpeg",
+        "initiative": 25,
+        "level": 7
+      },
+      {
+        "name": "proliferation of the abyss",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-proliferation-of-the-abyss.jpeg",
+        "initiative": 38,
+        "level": 7
+      },
+      {
+        "name": "frozen in fear",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-frozen-in-fear.jpeg",
+        "initiative": 21,
+        "level": 8
+      },
+      {
+        "name": "lashing tendrils",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-lashing-tendrils.jpeg",
+        "initiative": 80,
+        "level": 8
+      },
+      {
+        "name": "black lance",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-black-lance.jpeg",
+        "initiative": 16,
+        "level": 9
+      },
+      {
+        "name": "when your time comes",
+        "class": "DW",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/DW/fh-when-your-time-comes.jpeg",
+        "initiative": 72,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}

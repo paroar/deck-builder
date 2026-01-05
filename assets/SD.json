@@ -1,0 +1,257 @@
+{
+  "pageProps": {
+    "cards": 11,
+    "icon": "icons/characters/fh/SD.png",
+    "searchResults": [
+      {
+        "name": "Snowdancer",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-sd-back.jpeg",
+        "initiative": 0,
+        "level": 0
+      },
+      {
+        "name": "blizzard",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-blizzard.jpeg",
+        "initiative": 71,
+        "level": 1
+      },
+      {
+        "name": "chilling impact",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-chilling-impact.jpeg",
+        "initiative": 31,
+        "level": 1
+      },
+      {
+        "name": "cold therapy",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-cold-therapy.jpeg",
+        "initiative": 20,
+        "level": 1
+      },
+      {
+        "name": "cross winds",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-cross-winds.jpeg",
+        "initiative": 32,
+        "level": 1
+      },
+      {
+        "name": "enticing breeze",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-enticing-breeze.jpeg",
+        "initiative": 76,
+        "level": 1
+      },
+      {
+        "name": "frigid growth",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-frigid-growth.jpeg",
+        "initiative": 70,
+        "level": 1
+      },
+      {
+        "name": "gathering force",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-gathering-force.jpeg",
+        "initiative": 89,
+        "level": 1
+      },
+      {
+        "name": "lifting gust",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-lifting-gust.jpeg",
+        "initiative": 27,
+        "level": 1
+      },
+      {
+        "name": "nature's breath",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-natures-breath.jpeg",
+        "initiative": 90,
+        "level": 1
+      },
+      {
+        "name": "snowball",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-snowball.jpeg",
+        "initiative": 23,
+        "level": 1
+      },
+      {
+        "name": "whiteout",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-whiteout.jpeg",
+        "initiative": 21,
+        "level": 1
+      },
+      {
+        "name": "blinding vortex",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-blinding-vortex.jpeg",
+        "initiative": 31,
+        "level": 1.5
+      },
+      {
+        "name": "the spirit's call",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-the-spirits-call.jpeg",
+        "initiative": 45,
+        "level": 1.5
+      },
+      {
+        "name": "white winds",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-white-winds.jpeg",
+        "initiative": 11,
+        "level": 1.5
+      },
+      {
+        "name": "birds in a tempest",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-birds-in-a-tempest.jpeg",
+        "initiative": 18,
+        "level": 2
+      },
+      {
+        "name": "tornado",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-tornado.jpeg",
+        "initiative": 59,
+        "level": 2
+      },
+      {
+        "name": "cold snap",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-cold-snap.jpeg",
+        "initiative": 86,
+        "level": 3
+      },
+      {
+        "name": "polar vortex",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-polar-vortex.jpeg",
+        "initiative": 61,
+        "level": 3
+      },
+      {
+        "name": "biting frost",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-biting-frost.jpeg",
+        "initiative": 16,
+        "level": 4
+      },
+      {
+        "name": "zephyr barrier",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-zephyr-barrier.jpeg",
+        "initiative": 40,
+        "level": 4
+      },
+      {
+        "name": "shifting snow",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-shifting-snow.jpeg",
+        "initiative": 17,
+        "level": 5
+      },
+      {
+        "name": "whipping gale",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-whipping-gale.jpeg",
+        "initiative": 79,
+        "level": 5
+      },
+      {
+        "name": "frozen brand",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-frozen-brand.jpeg",
+        "initiative": 33,
+        "level": 6
+      },
+      {
+        "name": "refreshing flurry",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-refreshing-flurry.jpeg",
+        "initiative": 95,
+        "level": 6
+      },
+      {
+        "name": "freezing storm",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-freezing-storm.jpeg",
+        "initiative": 81,
+        "level": 7
+      },
+      {
+        "name": "storm wall",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-storm-wall.jpeg",
+        "initiative": 30,
+        "level": 7
+      },
+      {
+        "name": "surging blow",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-surging-blow.jpeg",
+        "initiative": 73,
+        "level": 8
+      },
+      {
+        "name": "the endless white",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-the-endless-white.jpeg",
+        "initiative": 5,
+        "level": 8
+      },
+      {
+        "name": "snowblind",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-snowblind.jpeg",
+        "initiative": 83,
+        "level": 9
+      },
+      {
+        "name": "winds of change",
+        "class": "SD",
+        "game": "fh",
+        "image": "character-ability-cards/frosthaven/SD/fh-winds-of-change.jpeg",
+        "initiative": 15,
+        "level": 9
+      }
+    ]
+  },
+  "__N_SSG": true
+}
