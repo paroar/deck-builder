@@ -24,25 +24,40 @@ let currentClassCards = [];
 
 async function init() {
   const header = document.getElementById("class-selector");
-  for (const file of classFiles) {
+
+  // 1. Creamos un array de promesas (todas las peticiones inician al mismo tiempo)
+  const promises = classFiles.map(async (file) => {
     try {
-      // Note: Ensure your JSON files are in an 'assets' folder as per your previous code
       const resp = await fetch(`assets/${file}.json`);
       const data = await resp.json();
-      const classId = data.pageProps.searchResults[0].class;
-
-      const btn = document.createElement("div");
-      btn.className = "class-icon-btn";
-      btn.dataset.id = classId;
-      btn.innerHTML = `<img src="${IMG_REPO}${data.pageProps.icon}" title="${classId}">`;
-      btn.onclick = () => renderUI(data.pageProps);
-
-      header.appendChild(btn);
-      if (file === classFiles[0]) renderUI(data.pageProps);
+      return { file, data };
     } catch (e) {
       console.error("Error loading " + file, e);
+      return null;
     }
-  }
+  });
+
+  // 2. Esperamos a que todas terminen
+  const results = await Promise.all(promises);
+
+  // 3. Procesamos los resultados para construir la UI
+  results.forEach((result, index) => {
+    if (!result) return;
+
+    const { data } = result;
+    const classId = data.pageProps.searchResults[0].class;
+
+    const btn = document.createElement("div");
+    btn.className = "class-icon-btn";
+    btn.dataset.id = classId;
+    btn.innerHTML = `<img src="${IMG_REPO}${data.pageProps.icon}" title="${classId}">`;
+    btn.onclick = () => renderUI(data.pageProps);
+
+    header.appendChild(btn);
+
+    // Renderizar la primera clase por defecto
+    if (index === 0) renderUI(data.pageProps);
+  });
 }
 
 function renderUI(props) {
